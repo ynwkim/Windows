@@ -1,0 +1,4 @@
+합계 8
+drwxr-xr-x  2 pi pi 4096  3월 23 22:27 .
+drwxr-xr-x 33 pi pi 4096  3월 23 22:27 ..
+-rw-r--r--  1 pi pi    0  3월 23 22:27 git_test.txt
